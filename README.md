@@ -40,8 +40,6 @@ Além dos códigos, estou aprimorando meu inglês.
 
 ---
 
----
-
 ## 💡 Filosofia de Aprendizado
 > "Construindo soluções hoje para resolver os desafios de amanhã."
 
